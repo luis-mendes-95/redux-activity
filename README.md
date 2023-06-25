@@ -1,2 +1,7 @@
 # redux-activity
-Notes and codes about redux using
+
+This repository deals with:
+
+1 - Creation of a redux
+2 - the useSelector hook
+
