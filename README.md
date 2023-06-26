@@ -2,9 +2,9 @@
 
 This repository deals with examples of redux functions, it is segregated in:
 
-0 - Creation of a react application using vite.
-1 - Creation of a redux
-2 - the useSelector hook
+0 - Creation of a react application using vite;
+1 - Creation of a redux;
+2 - the useSelector hook;
 
 *************************
 
