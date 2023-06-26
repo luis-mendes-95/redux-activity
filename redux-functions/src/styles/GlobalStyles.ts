@@ -8,6 +8,10 @@ const GlobalStyles = createGlobalStyle`
         box-sizing: border-box;
     }
 
+    h1{
+        font-family: Vina Sans;
+    }
+
 `;
 
 export default GlobalStyles
